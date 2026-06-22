@@ -21,8 +21,8 @@ Berarti perlu diperhatikan jumlah SKS pada satu matkul, sebagai penjelasan ada p
 | 8   | Pembuatan pipeline preprocessing dataset video menggunakan mediapipe         | Github           | 5,6 Jam | 14 April 2026    |
 | 9   | Pembuatan pipeline pelatihan model GRU dengan tensorflow                     | Github           | 5,6 Jam | 20 April 2026    |
 | 10  | Pembuatan frontend website temansiyarat.com menggunakan NextJS               | Github           | 5,6 Jam | 4 Mei 2026       |
-| 11  | Pembuatan backend service menggunakan Golang                                 | Github           | 5,6 Jam | 7 Mei 2026       |
-| 12  | Pembuatan aplikasi android menggunakan kotlin di android studio              | Github           | 5,6 Jam | 11 Mei 2026      |
+| 11  | Pembuatan backend service menggunakan Sanity                                 | Github           | 5,6 Jam | 7 Mei 2026       |
+| 12  | Pembuatan aplikasi android menggunakan Flutter              | Github           | 5,6 Jam | 11 Mei 2026      |
 | 13  | Perekaman videoset isyarat                                                   | FATISDA          | 5,6 Jam | 19 Mei 2026      |
 | 14  | User field testing aplikasi android                                          | Kafe Kawan Tuli  | 5,6 Jam | 25 Mei 2026      |
 | 15  | Sosialisasi tentang teknologi AI kepada GERKATIN Solo                        | Kafe Kawan Tuli  | 5,6 Jam | 27 Mei 2026      |
